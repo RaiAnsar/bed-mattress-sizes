@@ -1,0 +1,11 @@
+size,imperial,width_cm,length_cm,width_in,length_in,nbf_standard,exact_imperial_width_cm,exact_imperial_length_cm,checked
+Small Single,2ft 6in x 6ft 3in,75,190,29.5,74.8,yes,76.2,190.5,2026-09-24
+Single,3ft x 6ft 3in,90,190,35.4,74.8,yes,91.4,190.5,2026-09-24
+Euro Single,3ft x 6ft 6in,90,200,35.4,78.7,no,91.4,198.1,2026-09-24
+Small Double,4ft x 6ft 3in,120,190,47.2,74.8,yes,121.9,190.5,2026-09-24
+Double,4ft 6in x 6ft 3in,135,190,53.1,74.8,yes,137.2,190.5,2026-09-24
+Euro Double,4ft 7in x 6ft 6in,140,200,55.1,78.7,no,139.7,198.1,2026-09-24
+King,5ft x 6ft 6in,150,200,59.1,78.7,yes,152.4,198.1,2026-09-24
+Euro King,5ft 3in x 6ft 6in,160,200,63.0,78.7,no,160.0,198.1,2026-09-24
+Super King,6ft x 6ft 6in,180,200,70.9,78.7,yes,182.9,198.1,2026-09-24
+Emperor,6ft 6in x 6ft 6in,200,200,78.7,78.7,no,198.1,198.1,2026-09-24
