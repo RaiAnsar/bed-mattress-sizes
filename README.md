@@ -46,6 +46,16 @@ The metric label is rounded. 6ft 3in is really 190.5 cm and 6ft 6in is 198.1 cm,
 | Queen size | 160 x 200 |
 | King size | 180 x 200 |
 
+## A page for each size
+
+Most sizes in these tables have their own page on Bed Size Chart:
+
+- US: [Twin](https://bedsizechart.com/twin-bed-dimensions), [Twin XL](https://bedsizechart.com/twin-xl-dimensions), [Full](https://bedsizechart.com/full-size-bed-dimensions), [Queen](https://bedsizechart.com/queen-bed-dimensions), [King](https://bedsizechart.com/king-size-bed-dimensions), [King vs California King](https://bedsizechart.com/king-vs-california-king)
+- UK: [Single](https://bedsizechart.com/uk-single-bed-size), [Small Double](https://bedsizechart.com/uk-small-double-bed-size), [Double](https://bedsizechart.com/uk-double-bed-size), [Super King](https://bedsizechart.com/uk-super-king-bed-size), [every UK size](https://bedsizechart.com/uk-bed-sizes)
+- France: [French bed sizes](https://bedsizechart.com/french-bed-sizes)
+- Comparisons built from these tables: [US vs UK bed sizes](https://bedsizechart.com/us-vs-uk-bed-sizes), [Queen vs Full](https://bedsizechart.com/queen-vs-full), [Twin vs Twin XL](https://bedsizechart.com/twin-vs-twin-xl), and [where published sizes disagree](https://bedsizechart.com/mattress-size-disagreements)
+- The site also covers [sheet and duvet sizes](https://bedsizechart.com/sheet-and-duvet-sizes), [bed frame dimensions](https://bedsizechart.com/bed-frame-dimensions) and [fitted sheet pocket depth](https://bedsizechart.com/fitted-sheet-pocket-depth).
+
 ## Sources
 
 All figures were checked on 24 September 2026.
